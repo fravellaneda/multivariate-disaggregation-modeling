@@ -1,13 +1,13 @@
 # Multivariate Disaggregation Modeling
 
-**Author**: Fernando Rodríguez Avellaneda, Erick A. Chacón-Montalván and Paula Moraga
-**Paper**: Multivariate disaggregation modeling of air pollutants: a case‑study of PM2.5, PM10 and ozone prediction in Portugal and Italy ([arXiv:2503.12394](https://arxiv.org/abs/2503.12394))  
+**Authors**: Fernando Rodríguez Avellaneda, Erick A. Chacón-Montalván and Paula Moraga.  
+**Paper**: Multivariate disaggregation modeling of air pollutants: a case‑study of PM2.5, PM10 and ozone prediction in Portugal and Italy ([arXiv:2503.12394](https://arxiv.org/abs/2503.12394))
 
 This repository implements the **simulation study**, accompanying the above paper. The goal is to demonstrate and validate the proposed **spatial multivariate disaggregation** approach using synthetic and real-world data.
 
 ---
 
-## 📂 Repository Contents
+##  Repository Contents
 
 ```
 - `create_dataset.R` — Simulates multivariate areal-level datasets
@@ -19,7 +19,7 @@ This repository implements the **simulation study**, accompanying the above pape
 
 ---
 
-## 🚀 How to Run the Simulation Study
+## How to Run the Simulation Study
 
 From the R console or terminal:
 
@@ -49,7 +49,7 @@ source("run_file.R")
 
 ---
 
-## 📝 Citation
+## Citation
 
 If you use this code, please cite:
 
@@ -57,11 +57,31 @@ Rodríguez Avellaneda, F., Chacón‑Montalván, E. A., & Moraga, P. B. (2025).
 *Multivariate disaggregation modeling of air pollutants: a case‑study of PM2.5, PM10 and ozone prediction in Portugal and Italy*.  
 arXiv:2503.12394
 
+In BibTeX format:
+
+```
+@article{avellaneda2025multivariatedisaggregationmodelingair,
+      title={Multivariate disaggregation modeling of air pollutants: a case-study of PM2.5, PM10 and ozone prediction in Portugal and Italy}, 
+      author={Fernando Rodriguez Avellaneda and Erick A. Chacón-Montalván and Paula Moraga},
+      year={2025},
+      eprint={2503.12394},
+      archivePrefix={arXiv},
+      primaryClass={stat.AP},
+      url={https://arxiv.org/abs/2503.12394}, 
+}
+```
+
 ---
 
-## 📬 Contact
+## Contact
 
 **Fernando Rodríguez Avellaneda**  
-📧 [fravellaneda@kaust.edu.sa](mailto:fernando.rodriguezavellaneda@kaust.edu.sa)
+📧 [fernando.rodriguezavellaneda@kaust.edu.sa](mailto:fernando.rodriguezavellaneda@kaust.edu.sa)
+
+**Erick A. Chacón-Montalván**  
+📧 [erick.chaconmontalvan@kaust.edu.sa](mailto:erick.chaconmontalvan@kaust.edu.sa)
+
+**Paula Moraga**  
+📧 [paula.moraga@kaust.edu.sa](mailto:paula.moraga@kaust.edu.sa)
 
 ---
