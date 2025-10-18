@@ -1,7 +1,7 @@
 # Multivariate Disaggregation Modeling
 
 **Authors**: Fernando Rodríguez Avellaneda, Erick A. Chacón-Montalván and Paula Moraga.  
-**Paper**: Multivariate disaggregation modeling of air pollutants: a case‑study of PM2.5, PM10 and ozone prediction in Portugal and Italy ([arXiv:2503.12394](https://arxiv.org/abs/2503.12394))
+**Paper**: Multivariate disaggregation modeling of air pollutants: a case‑study of PM2.5, PM10 and ozone prediction in Portugal and Italy ([link](https://www.tandfonline.com/doi/full/10.1080/00031305.2025.2537055))
 
 This repository implements the **simulation study**, accompanying the above paper. The goal is to demonstrate and validate the proposed **spatial multivariate disaggregation** approach using synthetic and real-world data.
 
