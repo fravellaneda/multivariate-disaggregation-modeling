@@ -61,13 +61,17 @@ In BibTeX format:
 
 ```
 @article{avellaneda2025multivariatedisaggregationmodelingair,
-      title={Multivariate disaggregation modeling of air pollutants: a case-study of PM2.5, PM10 and ozone prediction in Portugal and Italy}, 
-      author={Fernando Rodriguez Avellaneda and Erick A. Chacón-Montalván and Paula Moraga},
-      year={2025},
-      eprint={2503.12394},
-      archivePrefix={arXiv},
-      primaryClass={stat.AP},
-      url={https://arxiv.org/abs/2503.12394}, 
+         author = {Fernando Rodriguez Avellaneda and Erick A. Chacón-Montalván and Paula Moraga},
+         title = {Multivariate Disaggregation Modeling of Air Pollutants: A Case-Study of PM2.5, PM10 and Ozone Prediction in Portugal and Italy},
+         journal = {The American Statistician},
+         volume = {0},
+         number = {0},
+         pages = {1--26},
+         year = {2025},
+         publisher = {ASA Website},
+         doi = {10.1080/00031305.2025.2537055},
+         URL = {https://doi.org/10.1080/00031305.2025.2537055},
+         eprint = { https://doi.org/10.1080/00031305.2025.2537055}
 }
 ```
 
